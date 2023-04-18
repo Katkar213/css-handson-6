@@ -108,9 +108,9 @@ p{
     background-position: center;
     background-size: cover;    
 }
-.box{
+/* .box{
     transition: 2s ;
-}
+} */
 .box:hover{
     transform:translateY(10px);
 }  
